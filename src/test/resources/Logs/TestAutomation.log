@@ -1,0 +1,812 @@
+2025-04-12 01:01:36 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:01:39 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:01:40 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:01:40 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:01:40 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:01:42 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:01:43 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:01:43 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:01:43 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:01:44 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:01:45 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:04:03 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b689c93c98a7d83c4c962aeb9720bb27, findElement {using=xpath, value=//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57162}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57162/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b689c93c98a7d83c4c962aeb9720bb27
+2025-04-12 01:04:04 INFO  setUp - Browser Closed..
+2025-04-12 01:06:09 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:06:10 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:06:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:06:10 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:06:20 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"css selector","selector":"#searchDropdownBox"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f9c87fb008afea93144527f8b176d775, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57704}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57704/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f9c87fb008afea93144527f8b176d775
+2025-04-12 01:06:21 INFO  setUp - Browser Closed..
+2025-04-12 01:06:34 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:06:37 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:06:38 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:06:38 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:06:39 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:06:40 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:06:41 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:06:41 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:06:41 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:06:43 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:06:43 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:07:11 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [01a3ec8405177892b0719da8cc22c750, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57734}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57734/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 01a3ec8405177892b0719da8cc22c750
+2025-04-12 01:07:11 INFO  setUp - Browser Closed..
+2025-04-12 01:08:42 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:08:43 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:08:44 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:08:44 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:08:44 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:08:45 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:08:46 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:08:46 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:08:47 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:08:48 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:08:49 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:09:58 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b584039c957a548fd38c6cc61ea1b94f, findElement {using=xpath, value=//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57911}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57911/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b584039c957a548fd38c6cc61ea1b94f
+2025-04-12 01:09:58 INFO  setUp - Browser Closed..
+2025-04-12 01:13:03 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:13:04 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:13:05 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:13:05 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:13:06 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:13:07 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:13:08 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:13:08 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:13:08 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:13:09 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:13:10 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:13:37 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 01:14:18 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"xpath","selector":"//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bf5877337395f436b2f0a55fc8b96854, findElement {using=xpath, value=//div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58141}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58141/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bf5877337395f436b2f0a55fc8b96854
+2025-04-12 01:14:19 INFO  setUp - Browser Closed..
+2025-04-12 01:15:20 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:15:21 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:15:22 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:15:22 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:15:22 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:15:23 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:15:24 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:15:24 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:15:24 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:15:27 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:15:28 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:15:55 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+element click intercepted: Element <span class="Navigation__linkText__LoQD4 en-IN">...</span> is not clickable at point (726, 462). Other element would receive the click: <a href="/stores/page/CDA06684-0468-4025-B349-5984B14B47E1?ingress=2&amp;visitId=c969e839-5c15-458b-8ba5-e7a204375eac&amp;ref_=ast_bln" aria-haspopup="true" role="button" tabindex="0" data-click-type="OTHER">...</a>
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e0354eb9037e85fab5bd68223cf0a3ff, clickElement {id=f.E9A4F760E52E9C4D54356B437467A86B.d.64BDC70FF7305254EF5605AC67F12327.e.382}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58279}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58279/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (e0354eb9037e85fab5bd68223cf0a3ff)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+Session ID: e0354eb9037e85fab5bd68223cf0a3ff
+2025-04-12 01:15:56 INFO  setUp - Browser Closed..
+2025-04-12 01:19:34 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:19:35 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:19:36 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:19:36 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:19:37 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:19:38 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:19:39 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:19:39 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:19:39 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:19:41 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:19:41 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:19:42 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Key not found: brand
+2025-04-12 01:19:43 INFO  setUp - Browser Closed..
+2025-04-12 01:20:15 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:20:17 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:20:18 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:20:18 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:20:18 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:20:20 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:20:21 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:20:21 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:20:21 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:20:22 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:20:23 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:21:12 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5913d2a7d8f6b4c9a0ffe30086bdea85, findElement [using, value]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58561}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58561/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5913d2a7d8f6b4c9a0ffe30086bdea85
+2025-04-12 01:21:12 INFO  setUp - Browser Closed..
+2025-04-12 01:21:31 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:21:31 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:21:32 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:21:32 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:21:33 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:21:34 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:21:35 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:21:35 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:21:35 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:21:37 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:21:37 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:22:05 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+element click intercepted: Element <span class="Navigation__linkText__LoQD4 en-IN">...</span> is not clickable at point (726, 462). Other element would receive the click: <a href="/stores/page/CDA06684-0468-4025-B349-5984B14B47E1?ingress=2&amp;visitId=aaefc2c1-090f-4964-b570-154753e4976d&amp;ref_=ast_bln" aria-haspopup="true" role="button" tabindex="0" data-click-type="OTHER">...</a>
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [120e959f8e68c247a51104388f0a5be1, clickElement {id=f.8BE1AAE616541760D7B86FF91DA623D2.d.E8C104B3048C5195D1630317540858D1.e.347}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58701}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:58701/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (120e959f8e68c247a51104388f0a5be1)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+Session ID: 120e959f8e68c247a51104388f0a5be1
+2025-04-12 01:22:05 INFO  setUp - Browser Closed..
+2025-04-12 01:28:42 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:28:45 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:28:46 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:28:46 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:28:46 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:28:48 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:28:49 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:28:49 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:28:49 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:28:50 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:28:51 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:29:19 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+element click intercepted: Element <span class="Navigation__linkText__LoQD4 en-IN">...</span> is not clickable at point (726, 462). Other element would receive the click: <a href="/stores/page/CDA06684-0468-4025-B349-5984B14B47E1?ingress=2&amp;visitId=71afd351-6f0e-4f5f-94ff-835966056fb6&amp;ref_=ast_bln" aria-haspopup="true" role="button" tabindex="0" data-click-type="OTHER">...</a>
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [af479bd0cad6d92f32533e9613e23437, clickElement {id=f.5A4EA250F602144AC6419E70CBAC9C1D.d.4FF8F470E68BB87EEF5C1497DE4A42FB.e.343}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59053}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59053/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (af479bd0cad6d92f32533e9613e23437)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+Session ID: af479bd0cad6d92f32533e9613e23437
+2025-04-12 01:29:20 INFO  setUp - Browser Closed..
+2025-04-12 01:34:07 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:34:09 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:34:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:34:10 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:34:10 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:34:12 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:34:13 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:34:13 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:34:13 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:34:14 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:34:15 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:34:18 INFO  searchResultPage - Switched to new tab
+2025-04-12 01:34:23 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+element click intercepted: Element <span class="Navigation__linkText__LoQD4 en-IN">...</span> is not clickable at point (726, 462). Other element would receive the click: <a href="/stores/page/CDA06684-0468-4025-B349-5984B14B47E1?ingress=2&amp;visitId=b246a3c3-fe53-4ead-81ee-cf0edee59c79&amp;ref_=ast_bln" aria-haspopup="true" role="button" tabindex="0" data-click-type="OTHER">...</a>
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dcf8c14e9867628cfd565349a93fcc0d, clickElement {id=f.6DBECE53427E549BDCD14453F625A872.d.1B90BA8D5FE207135673A7D31EF4FD8C.e.339}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59299}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59299/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (dcf8c14e9867628cfd565349a93fcc0d)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+Session ID: dcf8c14e9867628cfd565349a93fcc0d
+2025-04-12 01:34:23 INFO  setUp - Browser Closed..
+2025-04-12 01:37:53 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:37:54 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:37:56 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:37:56 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:37:56 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:37:57 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:37:58 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:37:58 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:37:59 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:38:00 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:38:01 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:38:05 INFO  searchResultPage - Switched to new tab
+2025-04-12 01:38:28 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 01:38:29 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+element click intercepted: Element <span class="Navigation__linkText__LoQD4 en-IN">...</span> is not clickable at point (784, 646). Other element would receive the click: <a href="/stores/page/60C149FF-5A1A-413A-BDD7-43C7D37C6B26?ingress=2&amp;visitId=1619a8bb-eaca-43d6-8d57-afd9b56ced0c&amp;ref_=ast_bln" aria-haspopup="false" tabindex="0" data-click-type="">...</a>
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [00e697bb435a9d0e4e9edd74fc2bb3b2, clickElement {id=f.4C24C01FF3E9FE1EB1863C45C240418A.d.AFB634D4F7F8BBED659D9B789E5B5871.e.356}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59519}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:59519/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (00e697bb435a9d0e4e9edd74fc2bb3b2)] -> xpath: //div[@aria-label='Navigation List']//*[contains(text(),'Apple Watch')]]
+Session ID: 00e697bb435a9d0e4e9edd74fc2bb3b2
+2025-04-12 01:38:30 INFO  setUp - Browser Closed..
+2025-04-12 01:41:04 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:41:06 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:41:06 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:41:06 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:41:07 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:41:08 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:41:09 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:41:09 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:41:09 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:41:11 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:41:11 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:41:15 INFO  searchResultPage - Switched to new tab
+2025-04-12 01:41:38 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 01:41:39 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 01:41:40 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+newly opened modal is related to Same product for which Quick look is performed. expected [true] but found [false]
+2025-04-12 01:41:41 INFO  setUp - Browser Closed..
+2025-04-12 01:45:15 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:45:17 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:45:17 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:45:17 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:45:18 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:45:19 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:45:20 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:45:20 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:45:21 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:45:22 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:45:23 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:45:27 INFO  searchResultPage - Switched to new tab
+2025-04-12 01:45:49 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 01:45:51 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 01:45:53 INFO  appleStorePage - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...
+2025-04-12 01:45:53 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+newly opened modal is related to Same product for which Quick look is performed. expected [true] but found [false]
+2025-04-12 01:45:53 INFO  setUp - Browser Closed..
+2025-04-12 01:49:26 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 01:49:27 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 01:49:29 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 01:49:29 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 01:49:30 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 01:49:31 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 silicone case
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max case
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 back case
+2025-04-12 01:49:32 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 01:49:32 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 01:49:32 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 01:49:34 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 01:49:34 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 01:49:38 INFO  searchResultPage - Switched to new tab
+2025-04-12 01:50:01 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 01:50:02 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 01:50:04 INFO  appleStorePage - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...  Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 01:50:04 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+newly opened modal is related to Same product for which Quick look is performed. expected [true] but found [false]
+2025-04-12 01:50:05 INFO  setUp - Browser Closed..
+2025-04-12 13:53:03 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 13:53:07 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 13:53:07 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 13:53:07 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 13:53:09 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 13:53:11 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13pro cover
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 256+gb
+2025-04-12 13:53:12 INFO  amazonElectronics - Checking suggestion: iphone 13 promax
+2025-04-12 13:53:12 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 13:53:12 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 13:53:12 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [070d77300b98fbe5bfa659560a484013, getElementText {id=f.ABAD9611B784E2C4272B59A48E3CC334.d.AF856B0EBA43009F44F7546E5283F641.e.130}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60798}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60798/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (070d77300b98fbe5bfa659560a484013)] -> xpath: //div[@class="s-suggestion-container"]]
+Session ID: 070d77300b98fbe5bfa659560a484013
+2025-04-12 13:53:13 INFO  setUp - Browser Closed..
+2025-04-12 13:56:27 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 13:56:31 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 13:56:31 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 13:56:31 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 13:56:33 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 13:56:34 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13pro cover
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 256+gb
+2025-04-12 13:56:35 INFO  amazonElectronics - Checking suggestion: iphone 13 promax
+2025-04-12 13:56:35 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 13:56:36 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 13:56:38 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 13:56:38 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 13:57:05 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 13:57:06 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 13:57:08 INFO  appleStorePage - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...  Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 13:57:08 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+newly opened modal is related to Same product for which Quick look is performed. expected [true] but found [false]
+2025-04-12 13:57:09 INFO  setUp - Browser Closed..
+2025-04-12 14:22:30 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:22:33 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:22:35 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:22:35 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:22:35 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 14:22:36 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13pro cover
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 256+gb
+2025-04-12 14:22:37 INFO  amazonElectronics - Checking suggestion: iphone 13 promax
+2025-04-12 14:22:37 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 14:22:38 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 14:22:40 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 14:22:40 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 14:23:07 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 14:23:08 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 14:23:10 INFO  appleStorePage - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...  Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 14:23:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Passed
+2025-04-12 14:23:10 INFO  setUp - Browser Closed..
+2025-04-12 14:31:39 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:31:40 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:31:40 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:31:40 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:31:50 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"css selector","selector":"#searchDropdownBox"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [76b783e72e34028f658181b997ad26cd, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61248}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61248/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 76b783e72e34028f658181b997ad26cd
+2025-04-12 14:31:51 INFO  setUp - Browser Closed..
+2025-04-12 14:32:03 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:32:06 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:32:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:32:10 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:32:10 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 14:32:11 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4726eac4740fff753cdcc1c7947d7454, getElementText {id=f.913FA1AD48E1B05898A41275694AEFC8.d.3F60412C012098095B30450A86919CEF.e.110}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61279}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61279/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on windows (4726eac4740fff753cdcc1c7947d7454)] -> xpath: //div[@class="s-suggestion-container"]]
+Session ID: 4726eac4740fff753cdcc1c7947d7454
+2025-04-12 14:32:12 INFO  setUp - Browser Closed..
+2025-04-12 14:33:16 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:33:20 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:33:21 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:33:21 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:33:21 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 14:33:23 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 14:33:24 INFO  amazonElectronics - Checking suggestion: iphone 16e
+2025-04-12 14:33:24 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Invalid suggestion: iphone 16e expected [true] but found [false]
+2025-04-12 14:33:24 INFO  setUp - Browser Closed..
+2025-04-12 14:47:43 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:47:44 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:47:44 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:47:44 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:47:55 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"css selector","selector":"#searchDropdownBox"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [39772b2c5d0e505038a43058ba9aeba3, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61693}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:61693/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 39772b2c5d0e505038a43058ba9aeba3
+2025-04-12 14:47:55 INFO  ScreenShot - ScreenShot captured verifyElectronicsSearch || Status :Fail
+2025-04-12 14:47:55 INFO  setUp - Browser Closed..
+2025-04-12 14:48:28 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 14:48:31 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 14:48:33 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 14:48:33 INFO  amazonElectronics - Selecting category: Electronics
+2025-04-12 14:48:33 INFO  amazonElectronics - Typing search term: IPhone 13
+2025-04-12 14:48:33 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (7550b65d51c675ddbaebe9d0bd05374c)] -> id: twotabsearchtextbox]
+2025-04-12 14:48:34 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (7550b65d51c675ddbaebe9d0bd05374c)] -> id: twotabsearchtextbox] = IPhone 13
+2025-04-12 14:48:35 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 case cover
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 128+gb
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 128gb
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13pro cover
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 pro case cover
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 pro max back cover
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 back cover for men
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 256gb
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 256+gb
+2025-04-12 14:48:36 INFO  amazonElectronics - Checking suggestion: iphone 13 promax
+2025-04-12 14:48:36 INFO  amazonElectronics - Typing search term: iPhone 13 128GB
+2025-04-12 14:48:36 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (7550b65d51c675ddbaebe9d0bd05374c)] -> id: twotabsearchtextbox]
+2025-04-12 14:48:36 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (7550b65d51c675ddbaebe9d0bd05374c)] -> id: twotabsearchtextbox] = iPhone 13 128GB
+2025-04-12 14:48:36 INFO  amazonElectronics - Looking for suggestion: iPhone 13 128GB
+2025-04-12 14:48:38 INFO  amazonElectronics - Clicked on suggestion: iPhone 13 128GB
+2025-04-12 14:48:39 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 14:48:43 INFO  CommonMethods - Swiched to Child window name : Apple iPhone 13 (512GB) - Starlight : Amazon.in || URL :https://www.amazon.in/Apple-iPhone-13-512GB-Starlight/dp/B09G99B791/ref=sr_1_1_sspa?crid=H3WTMQZD5AIP&dib=eyJ2IjoiMSJ9.SovRdjmpU7SkajNkIwaiOVl17rHALpjDndzWbpNnG-WauQAAe15H2dgQ6jP9fO0_HAN_aKdfyynA2QuuZfd8E_HGI5LgbCJM7Gz4LFaZt8tMhTJfNlswy8h2f9p3JB02SKqcPBsvqobEgmxFDlzQ4kki1aUC4eNHkmlKVnD_M_EPM61OIi_msoxt2ADT1RhY-BiTqKUjN8R66Ds8bKmNhLZBGTpFTRXZp-aIeOrs1OnSfuko3Z3EjV7kTXyvJdIg1ubTGBd7H8wrwgYCCMTqS58oogSgBG0lsXTTVJ_K79s.e6rufjYdgTTQsTeKHp8WNIobQYeyTCWPzMsSoVZOAiI&dib_tag=se&keywords=iphone%2B13%2B128gb&nsdOptOutParam=true&qid=1744449516&s=electronics&sprefix=iPhone%2B13%2B128GB%2Celectronics%2C291&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+2025-04-12 14:48:56 INFO  CommonMethods - Sucessfully clicked on Proxy element for: DefaultElementLocator 'By.linkText: Visit the Apple Store'
+2025-04-12 14:49:06 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 14:49:08 INFO  appleStorePage - Clicked on apple watch: Apple Watch SE (GPS + Cellular)
+2025-04-12 14:49:10 INFO  appleStorePage - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...  Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 14:49:10 INFO  appleStorePage - Modal content is related to Same product for which Quick look is performed.
+2025-04-12 14:49:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Passed
+2025-04-12 14:49:10 INFO  setUp - Browser Closed..
+2025-04-12 15:24:12 INFO  ExtentReporterNG - Extent report Directory is created!
+2025-04-12 15:24:14 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:24:17 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:24:17 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:24:17 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:24:28 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868beac1c91a80d7d0927edbe6d0f557, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62949/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 868beac1c91a80d7d0927edbe6d0f557
+2025-04-12 15:24:28 ERROR ScreenShot - Unbale to capture screenshot due to Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [868beac1c91a80d7d0927edbe6d0f557, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62949/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 868beac1c91a80d7d0927edbe6d0f557
+2025-04-12 15:24:28 INFO  setUp - Browser Closed..
+2025-04-12 15:24:37 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:24:40 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:24:41 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:24:41 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:24:41 INFO  CommonMethods - Typing search term:  IPhone 13
+2025-04-12 15:24:42 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> id: twotabsearchtextbox]
+2025-04-12 15:24:42 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> id: twotabsearchtextbox] = IPhone 13
+2025-04-12 15:24:43 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 15:24:44 INFO  CommonMethods - Validating each suggestion contains iphone 13 ... 
+2025-04-12 15:24:44 INFO  CommonMethods - Typing search term:  iPhone 13 128GB
+2025-04-12 15:24:44 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> id: twotabsearchtextbox]
+2025-04-12 15:24:44 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> id: twotabsearchtextbox] = iPhone 13 128GB
+2025-04-12 15:24:44 INFO  CommonMethods - Looking for suggestion:  iPhone 13 128GB
+2025-04-12 15:24:47 INFO  CommonMethods - Clicked on suggestion:  iPhone 13 128GB
+2025-04-12 15:24:47 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 15:24:51 INFO  CommonMethods - Swiched to Child window name : Apple iPhone 13 (512GB) - Starlight : Amazon.in || URL :https://www.amazon.in/Apple-iPhone-13-512GB-Starlight/dp/B09G99B791/ref=sr_1_1_sspa?crid=3HNLPPCHFFQQV&dib=eyJ2IjoiMSJ9.VYTcdrFVFRTs1FQfJjZuYDA2bZWbdhVV5kZGGUzvkSK4WjlbZq9W2uRf12Kmm0OnnoaHp59WvCs44SMCDHdzIlHp0kwPiINC7OIHyyylW0tinoxdh7ALeMzdUj1PP6F0-CB22c9SkViLP12v9MyJeDR0rDYiXg-v7cMyeGjdYyWGbwaHUd30WeZzXb7La5T9-BiTqKUjN8R66Ds8bKmNhF3nED3DVQUmjDZuR4LcfVXUG9RD4r0pCvjFNytbtFgKBLqiMv87wOaJ60pPJgYAKZ8oogSgBG0lsXTTVJ_K79s.hcuuDQmb3qweJae0EK3PYF8NmuwguckSLw87Fmg_5_w&dib_tag=se&keywords=iphone%2B13%2B128gb&nsdOptOutParam=true&qid=1744451684&s=electronics&sprefix=iPhone%2B13%2B128GB%2Celectronics%2C249&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+2025-04-12 15:25:03 INFO  CommonMethods - Sucessfully clicked on Proxy element for: DefaultElementLocator 'By.linkText: Visit the Apple Store'
+2025-04-12 15:25:13 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+2025-04-12 15:25:13 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 15:25:14 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> xpath: //div[@aria-label='Navigation List']//*[contains(text(),'Apple Watch')]]
+2025-04-12 15:25:14 INFO  CommonMethods - Clicked on apple watch:  Apple Watch SE (GPS + Cellular)
+2025-04-12 15:25:14 INFO  CommonMethods - Mouse hover on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> xpath: //div[@id='4k2av5ugzs']]
+2025-04-12 15:25:14 INFO  CommonMethods - QuickLook button display on mouse hover  on product
+2025-04-12 15:25:15 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (1556d7d9ad71977a3548baa7244589b3)] -> xpath: //div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]]
+2025-04-12 15:25:15 INFO  CommonMethods - QuickLook Modal view display after clicking on QuickLook button..
+2025-04-12 15:25:15 INFO  CommonMethods - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...   Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 15:25:15 INFO  CommonMethods - Modal content is related to Same product for which Quick look is performed. 
+2025-04-12 15:25:15 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Passed
+2025-04-12 15:25:16 INFO  setUp - Browser Closed..
+2025-04-12 15:42:38 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:42:39 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:42:40 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:42:40 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:42:41 INFO  CommonMethods - Typing search term:  IPhone 13
+2025-04-12 15:42:41 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> id: twotabsearchtextbox]
+2025-04-12 15:42:41 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> id: twotabsearchtextbox] = IPhone 13
+2025-04-12 15:42:42 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 15:42:43 INFO  CommonMethods - Validating each suggestion contains iphone 13 ... 
+2025-04-12 15:42:43 INFO  CommonMethods - Typing search term:  iPhone 13 128GB
+2025-04-12 15:42:43 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> id: twotabsearchtextbox]
+2025-04-12 15:42:43 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> id: twotabsearchtextbox] = iPhone 13 128GB
+2025-04-12 15:42:43 INFO  CommonMethods - Looking for suggestion:  iPhone 13 128GB
+2025-04-12 15:42:45 INFO  CommonMethods - Clicked on suggestion:  iPhone 13 128GB
+2025-04-12 15:42:46 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 15:42:49 INFO  CommonMethods - Swiched to Child window name : Apple iPhone 13 (512GB) - Starlight : Amazon.in || URL :https://www.amazon.in/Apple-iPhone-13-512GB-Starlight/dp/B09G99B791/ref=sr_1_1_sspa?crid=30L85MEB0EIRP&dib=eyJ2IjoiMSJ9.VYTcdrFVFRTs1FQfJjZuYDA2bZWbdhVV5kZGGUzvkSK4WjlbZq9W2uRf12Kmm0OnxvRMJ6ANX511LzDBQMMgaa08kBMfrHAwyZEChp1e8GOy_eI9KsR3ww74J4JAiz8--CB22c9SkViLP12v9MyJeHa_peBEdsDltRxSTuKmevxNJkbqv0EbbG-fJaM6tjgL74hAU9nbpBeTRfp6qVtf3327Qcf3_T1v6i9b_E5yB-9CxULxjNGtGlxQYu6w1zISQecuzWRmcSAWfcZQHj6Kj58oogSgBG0lsXTTVJ_K79s.PkSdhvjWlCQbWN7JFTF6viWfh912UYijworp7Iot-L0&dib_tag=se&keywords=iphone%2B13%2B128gb&nsdOptOutParam=true&qid=1744452763&s=electronics&sprefix=iPhone%2B13%2B128GB%2Celectronics%2C231&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+2025-04-12 15:43:01 INFO  CommonMethods - Sucessfully clicked on Proxy element for: DefaultElementLocator 'By.linkText: Visit the Apple Store'
+2025-04-12 15:43:12 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+2025-04-12 15:43:12 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 15:43:13 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> xpath: //div[@aria-label='Navigation List']//*[contains(text(),'Apple Watch')]]
+2025-04-12 15:43:13 INFO  CommonMethods - Clicked on apple watch:  Apple Watch SE (GPS + Cellular)
+2025-04-12 15:43:13 INFO  CommonMethods - Mouse hover on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> xpath: //div[@id='4k2av5ugzs']]
+2025-04-12 15:43:13 INFO  CommonMethods - QuickLook button display on mouse hover  on product
+2025-04-12 15:43:14 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (bbed1aefe639b5a29bdd1a5bf5cce0fa)] -> xpath: //div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]]
+2025-04-12 15:43:14 INFO  CommonMethods - QuickLook Modal view display after clicking on QuickLook button..
+2025-04-12 15:43:14 INFO  CommonMethods - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...   Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 15:43:14 INFO  CommonMethods - Modal content is related to Same product for which Quick look is performed. 
+2025-04-12 15:43:14 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Passed
+2025-04-12 15:43:14 INFO  setUp - Browser Closed..
+2025-04-12 15:47:35 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:47:35 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:47:36 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:47:36 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:47:45 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+invalid session id: session deleted as the browser has closed the connection
+from disconnected: unable to send message to renderer
+  (Session info: chrome=135.0.7049.42)
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [213eb66c8dda2c379ea42eeeb01e0e3f, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64237/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 213eb66c8dda2c379ea42eeeb01e0e3f
+2025-04-12 15:47:45 ERROR ScreenShot - Unbale to capture screenshot due to invalid session id
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [213eb66c8dda2c379ea42eeeb01e0e3f, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64237/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 213eb66c8dda2c379ea42eeeb01e0e3f
+2025-04-12 15:47:45 INFO  setUp - Browser Closed..
+2025-04-12 15:54:23 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:54:24 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:54:25 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:54:25 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:54:35 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"css selector","selector":"#searchDropdownBox"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7ab0ffb3fcb08e5d9b7b95464b8c19f4, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64835/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7ab0ffb3fcb08e5d9b7b95464b8c19f4
+2025-04-12 15:54:35 INFO  ScreenShot - ScreenShot captured verifyElectronicsSearch || Status :Fail
+2025-04-12 15:54:35 INFO  setUp - Browser Closed..
+2025-04-12 15:55:42 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:55:45 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:55:45 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:55:45 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:55:55 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+no such element: Unable to locate element: {"method":"css selector","selector":"#searchDropdownBox"}
+  (Session info: chrome=135.0.7049.42)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5d89191a2fb69491b502b662106d9668, findElement {value=searchDropdownBox, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64893}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64893/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5d89191a2fb69491b502b662106d9668
+2025-04-12 15:55:56 INFO  ScreenShot - ScreenShot captured verifyElectronicsSearch || Status :Fail
+2025-04-12 15:55:56 INFO  setUp - Browser Closed..
+2025-04-12 15:57:05 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 15:57:07 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 15:57:08 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 15:57:08 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 15:57:25 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d610343013453591cf6225b99940a1c, findElement [value, using]]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64986}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64986/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d610343013453591cf6225b99940a1c
+2025-04-12 15:57:25 ERROR ScreenShot - Unbale to capture screenshot due to Error communicating with the remote browser. It may have died.
+Build info: version: '4.29.0', revision: '5fc1ec94cb'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8d610343013453591cf6225b99940a1c, screenshot []]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 135.0.7049.42, chrome: {chromedriverVersion: 135.0.7049.84 (6c019e560019..., userDataDir: C:/temp/selenium_profile}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64986}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64986/devtoo..., se:cdpVersion: 135.0.7049.42, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8d610343013453591cf6225b99940a1c
+2025-04-12 15:57:25 INFO  setUp - Browser Closed..
+2025-04-12 16:08:42 INFO  ExtentReporterNG - Extent report Directory is created!
+2025-04-12 16:08:43 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 16:08:44 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 16:08:45 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 16:08:45 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 16:08:59 INFO  CommonMethods - Typing search term:  IPhone 13
+2025-04-12 16:08:59 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> id: twotabsearchtextbox]
+2025-04-12 16:08:59 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> id: twotabsearchtextbox] = IPhone 13
+2025-04-12 16:09:00 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 16:09:01 INFO  CommonMethods - Validating each suggestion contains iphone 13 ... 
+2025-04-12 16:09:01 INFO  CommonMethods - Typing search term:  iPhone 13 128GB
+2025-04-12 16:09:01 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> id: twotabsearchtextbox]
+2025-04-12 16:09:02 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> id: twotabsearchtextbox] = iPhone 13 128GB
+2025-04-12 16:09:02 INFO  CommonMethods - Looking for suggestion:  iPhone 13 128GB
+2025-04-12 16:09:04 INFO  CommonMethods - Clicked on suggestion:  iPhone 13 128GB
+2025-04-12 16:09:04 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 16:09:04 INFO  CommonMethods - Clicked on first product from list 
+2025-04-12 16:09:08 INFO  CommonMethods - Swiched to Child window name : Apple iPhone 13 (512GB) - Starlight : Amazon.in || URL :https://www.amazon.in/Apple-iPhone-13-512GB-Starlight/dp/B09G99B791/ref=sr_1_1_sspa?crid=15LT6N32DBKKA&dib=eyJ2IjoiMSJ9.kfUeR47p2DhUpgZAgYxCcKwtD38dW5KZ5urfddiXCVB6YYmEpHxp1ek5oho5l2Jwom3Pxko5NZeGiO8eeqgDjr9ZQjZYA6NLGR4wFTyuIf6QWZdEaCcT89wxg7Gc6umdegxfSZ11BpjB7cGFMnGCamgeWIyc96oG-C2IYA2OtQCFApg5SRRLEmG-wVBT0bJ7FgIIbKlRUvUEJyZD8faiZaLRLd_RIGZOR-0q0fMGyNSVniFRPj8Z2tz7IdVnQqfVrDNX7bWsmPwklOkb0DdrgZ8oogSgBG0lsXTTVJ_K79s.pntoHCAuCgEhe8Z3k88KDwmMCot4TNeX1GaqZJo58eM&dib_tag=se&keywords=iphone%2B13%2B128gb&nsdOptOutParam=true&qid=1744454341&s=electronics&sprefix=iPhone%2B13%2B128GB%2Celectronics%2C233&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+2025-04-12 16:09:39 INFO  CommonMethods - Sucessfully clicked on Proxy element for: DefaultElementLocator 'By.linkText: Visit the Apple Store'
+2025-04-12 16:10:09 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+2025-04-12 16:10:09 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 16:10:10 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> xpath: //div[@aria-label='Navigation List']//*[contains(text(),'Apple Watch')]]
+2025-04-12 16:10:10 INFO  CommonMethods - Clicked on apple watch:  Apple Watch SE (GPS + Cellular)
+2025-04-12 16:10:11 INFO  CommonMethods - Mouse hover on [[ChromeDriver: chrome on windows (12e2e959ca5aa13efde8940c64a62323)] -> xpath: //div[@id='4k2av5ugzs']]
+2025-04-12 16:10:11 ERROR setUp - verifyElectronicsSearch Get Failed due to 
+Quick look button is displayed on image expected [true] but found [false]
+2025-04-12 16:10:11 INFO  ScreenShot - ScreenShot captured verifyElectronicsSearch || Status :Fail
+2025-04-12 16:10:11 INFO  setUp - Browser Closed..
+2025-04-12 16:17:07 INFO  setUp - ......Chrome Browser Launched ......
+2025-04-12 16:17:10 INFO  setUp - URL : https://www.amazon.in/
+2025-04-12 16:17:10 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Started
+2025-04-12 16:17:10 INFO  CommonMethods - Selecting category:  Electronics
+2025-04-12 16:17:11 INFO  CommonMethods - Typing search term:  IPhone 13
+2025-04-12 16:17:11 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> id: twotabsearchtextbox]
+2025-04-12 16:17:11 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> id: twotabsearchtextbox] = IPhone 13
+2025-04-12 16:17:13 INFO  amazonElectronics - Found 10 suggestions
+2025-04-12 16:17:14 INFO  CommonMethods - Validating each suggestion contains iphone 13 ... 
+2025-04-12 16:17:14 INFO  CommonMethods - Typing search term:  iPhone 13 128GB
+2025-04-12 16:17:14 INFO  CommonMethods - Sucessfully clicked on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> id: twotabsearchtextbox]
+2025-04-12 16:17:14 INFO  CommonMethods - Data successfully entered on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> id: twotabsearchtextbox] = iPhone 13 128GB
+2025-04-12 16:17:14 INFO  CommonMethods - Looking for suggestion:  iPhone 13 128GB
+2025-04-12 16:17:17 INFO  CommonMethods - Clicked on suggestion:  iPhone 13 128GB
+2025-04-12 16:17:17 INFO  searchResultPage - Clicked on first product from list
+2025-04-12 16:17:17 INFO  CommonMethods - Clicked on first product from list 
+2025-04-12 16:17:21 INFO  CommonMethods - Swiched to Child window name : Apple iPhone 13 (512GB) - Starlight : Amazon.in || URL :https://www.amazon.in/Apple-iPhone-13-512GB-Starlight/dp/B09G99B791/ref=sr_1_1_sspa?crid=ET6XMKU3H5OG&dib=eyJ2IjoiMSJ9.VYTcdrFVFRTs1FQfJjZuYDA2bZWbdhVV5kZGGUzvkSK4WjlbZq9W2uRf12Kmm0OnnoaHp59WvCs44SMCDHdzIlyCUL8VdXgssa_jcV3ohISLUY95YAj6jgFP0OXKkPq8Y-_TIB52wsblGqz1E0j1PJiASWLVYaiWV37UcoT-mGHE8DiNHZloeJ00i2cOqCLqvRYc_ivatjgYAR-s7HtyeqLRLd_RIGZOR-0q0fMGyNTSfuko3Z3EjV7kTXyvJdIg2AWKbhYauJ3AIzPT3jzYWov7I0X193zL7d1NwEmjMO0._upygYykyDhcHa8M3PEPhpcje13vllbUyfCyk8_FW3A&dib_tag=se&keywords=iphone%2B13%2B128gb&nsdOptOutParam=true&qid=1744454834&s=electronics&sprefix=iPhone%2B13%2B128GB%2Celectronics%2C783&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
+2025-04-12 16:17:52 INFO  CommonMethods - Sucessfully clicked on Proxy element for: DefaultElementLocator 'By.linkText: Visit the Apple Store'
+2025-04-12 16:18:23 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> xpath: //nav[@aria-label='Home page Navigation Bar']//a[@role='button']//span[text()='Apple Watch']]
+2025-04-12 16:18:23 INFO  appleStorePage - Apple watch dropdown clicked..
+2025-04-12 16:18:24 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> xpath: //div[@aria-label='Navigation List']//*[contains(text(),'Apple Watch')]]
+2025-04-12 16:18:24 INFO  CommonMethods - Clicked on apple watch:  Apple Watch SE (GPS + Cellular)
+2025-04-12 16:18:24 INFO  CommonMethods - Mouse hover on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> xpath: //div[@id='4k2av5ugzs']]
+2025-04-12 16:18:24 INFO  CommonMethods - Element display on page... 
+2025-04-12 16:18:24 INFO  CommonMethods - QuickLook button display on mouse hover  on product
+2025-04-12 16:18:25 INFO  CommonMethods - Mouse Click on [[ChromeDriver: chrome on windows (edf6afabf8a9850e17a01a4bf53330fa)] -> xpath: //div[@id='4k2av5ugzs']//*[contains(text(),'Quick look')]]
+2025-04-12 16:18:25 INFO  CommonMethods - Element display on page... 
+2025-04-12 16:18:25 INFO  CommonMethods - QuickLook Modal view display after clicking on QuickLook button..
+2025-04-12 16:18:25 INFO  CommonMethods - Model content: Apple Watch SE (2nd Gen, 2023) [GPS + Cellular 40mm] Smartwatch with Starlight Aluminum Case with Starlight...   Expected Text : Apple Watch SE (GPS + Cellular)
+2025-04-12 16:18:25 INFO  CommonMethods - Modal content is related to Same product for which Quick look is performed. 
+2025-04-12 16:18:25 INFO  setUp - Test Case_verifyElectronicsSearch_Successfully Passed
+2025-04-12 16:18:26 INFO  setUp - Browser Closed..
